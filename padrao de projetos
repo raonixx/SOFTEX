@@ -1,0 +1,7 @@
+//Escolha e descreva um padrão de projetos.
+
+Padrão COMPOSITE
+O padrão Composite tem a intenção de compor objetos em estruturas de árvore para representar hierarquia partes-todo. 
+Composite permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos. 
+A ideia do Composite é criar uma classe base que contém toda a interface necessária para todos os elementos e criar 
+um elemento especial que agrega outros elementos.
